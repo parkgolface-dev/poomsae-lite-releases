@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.0",
+  "versionCode": 8,
+  "versionName": "0.4.0",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "5e802a035c6ab8910a0cfc811e98e0dcfbf8b00cea77cc829afa63843e9851d3",
-  "notes": "0.3.0: 실시간 측정 영상 녹화 + 다시보기(결과·기록) + 삭제, CPU 추론 옵션, 진단 강화",
-  "publishedAt": "2026-10-13T00:29:05+09:00"
+  "sha256": "7826609346ad88b91b3df4e2520ea8ae3d250203cf35f6afa64237b75787597a",
+  "notes": "0.4.0: 정식 UI(테마·아이콘·앱 아이콘·스플래시), 글자 안 보임 수정, 홈 최근 측정, 삭제 확인창",
+  "publishedAt": "2026-10-13T02:20:26+09:00"
 }
