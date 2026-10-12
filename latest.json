@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "0.2.1",
-  "apkUrl": "https://github.com/parkgolface-dev/poomsae-lite-releases/releases/download/v0.2.1/poomsae-lite-0.2.1.apk",
+  "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
   "sha256": "f6d7c8a391f6555b3156984c7d871b87d8fe1d760381b0b932ba7d549052aacb",
   "notes": "0.2.1: 외부 다운로드·자동 업데이트를 공개 GitHub 릴리스로(미러: pga-code)",
   "publishedAt": "2026-10-12T22:12:43+09:00"
