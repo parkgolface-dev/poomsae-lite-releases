@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
+  "versionCode": 5,
+  "versionName": "0.2.3",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "e82565250df9b4896363154dcb656abc5b8debd6d09529521cbd3c2241faac71",
-  "notes": "0.2.2: 실행 직후 종료 수정(코드 축소 끔). 자동 업데이트 포함",
-  "publishedAt": "2026-10-12T23:13:38+09:00"
+  "sha256": "7d65cf4db4b26b3ecc7a27f19eb74290859adec884bbc350476c28030daa1cea",
+  "notes": "0.2.3: 비정상 종료 진단(스택 자동 전송·표시) 추가",
+  "publishedAt": "2026-10-12T23:29:20+09:00"
 }
