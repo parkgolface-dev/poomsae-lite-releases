@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.0",
+  "versionCode": 11,
+  "versionName": "0.5.1",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "9f56d8214b6645d111dee148eb14e52888d035a2509a98896dc5d8bf83da3a6f",
-  "notes": "0.5.0: 동작별 분석(구간 반복 재생·0.5배속·뼈대/관절각 오버레이·완성 자세·측정값 vs 기준·지도 문장), 분할형 MP4 지원, 샘플 영상 폴더, 채점 프레임·막기 기준 보정",
-  "publishedAt": "2026-10-15T00:00:24+09:00"
+  "sha256": "24a906a7be3a4b38d9919cec124f71ddd036dbd1e114fb84c2eca27ea4900568",
+  "notes": "0.5.1: 알림 화면(업데이트 소식 피드·읽지 않음 배지), 새 버전·설치 완료 시스템 알림, 알림 권한 요청",
+  "publishedAt": "2026-10-15T01:59:18+09:00"
 }
