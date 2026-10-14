@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.5.1",
+  "versionCode": 12,
+  "versionName": "0.6.0",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "24a906a7be3a4b38d9919cec124f71ddd036dbd1e114fb84c2eca27ea4900568",
-  "notes": "0.5.1: 알림 화면(업데이트 소식 피드·읽지 않음 배지), 새 버전·설치 완료 시스템 알림, 알림 권한 요청",
-  "publishedAt": "2026-10-15T01:59:18+09:00"
+  "sha256": "94a0467777bbe17057a1368caeedd686f592c6fefa24eaa86df070def7bd2f4f",
+  "notes": "0.6.0: 사용자 등록·다중 사용자(동의 포함)와 사용자별 기록, 개인정보 안내·진단 전송 기본 꺼짐, 측정 준비 점검(전신·조명), 측정 불충분 판정과 참고 점수 표시, 결과 카드 공유, 최근 추이, 카메라 권한 거부·저장 실패 처리",
+  "publishedAt": "2026-10-15T03:00:10+09:00"
 }
