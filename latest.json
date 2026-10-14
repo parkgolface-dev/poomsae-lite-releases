@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.4.0",
+  "versionCode": 9,
+  "versionName": "0.4.1",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "7826609346ad88b91b3df4e2520ea8ae3d250203cf35f6afa64237b75787597a",
-  "notes": "0.4.0: 정식 UI(테마·아이콘·앱 아이콘·스플래시), 글자 안 보임 수정, 홈 최근 측정, 삭제 확인창",
-  "publishedAt": "2026-10-13T02:20:26+09:00"
+  "sha256": "78c47ad370d3bb6849528163203df8273ab39be4627c7a0903bae47db87fe50e",
+  "notes": "0.4.1: 동작 분할기 v0.2(속도 피크·적응 임계값, 인터넷 영상 3편 검증), 태극 1장 20스텝(협회 규격 순서)",
+  "publishedAt": "2026-10-14T23:06:56+09:00"
 }
