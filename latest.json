@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.4.1",
+  "versionCode": 10,
+  "versionName": "0.5.0",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "78c47ad370d3bb6849528163203df8273ab39be4627c7a0903bae47db87fe50e",
-  "notes": "0.4.1: 동작 분할기 v0.2(속도 피크·적응 임계값, 인터넷 영상 3편 검증), 태극 1장 20스텝(협회 규격 순서)",
-  "publishedAt": "2026-10-14T23:06:56+09:00"
+  "sha256": "9f56d8214b6645d111dee148eb14e52888d035a2509a98896dc5d8bf83da3a6f",
+  "notes": "0.5.0: 동작별 분석(구간 반복 재생·0.5배속·뼈대/관절각 오버레이·완성 자세·측정값 vs 기준·지도 문장), 분할형 MP4 지원, 샘플 영상 폴더, 채점 프레임·막기 기준 보정",
+  "publishedAt": "2026-10-15T00:00:24+09:00"
 }
