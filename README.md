@@ -1,4 +1,4 @@
-# 품새 라이트 (poomsae-lite) — 배포
+# MADANG X Poomsae 라이트판 (poomsae-lite) — 배포
 
 태극 1장 AI 자세 채점 Android 앱의 **배포 전용** 저장소입니다. 소스는 별도 비공개 저장소에 있습니다.
 

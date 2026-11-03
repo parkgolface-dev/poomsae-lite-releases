@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.6.1",
+  "versionCode": 14,
+  "versionName": "0.6.2",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "04741427294e2f4e12fdc40b54c1b10bbe753b0b0f27ff69994a1412df066e76",
-  "notes": "0.6.1: 수행자 포커스 재생(다시보기·동작별 분석에서 세로 틀로 수행자 추적 확대, 배경 어둡게, 원본 전환)",
-  "publishedAt": "2026-10-15T03:28:03+09:00"
+  "sha256": "b4ba2489f39b13ba2558aee9cb5cdf4b7258179f82a854837a9656572193d115",
+  "notes": "0.6.2: 앱 이름을 MADANG X Poomsae로 변경(통합 브랜드 반영), 패키지·기록·설정은 그대로 유지",
+  "publishedAt": "2026-11-03T11:18:16+09:00"
 }
