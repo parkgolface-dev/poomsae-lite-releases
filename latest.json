@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.6.3",
+  "versionCode": 16,
+  "versionName": "0.7.0",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "f11989a3e9c5bf92f231adae0ff8ce6265eaf7df9362814f4162353414a4c5e6",
-  "notes": "0.6.3: 업데이트 안내 강화 — 앱을 열 때마다 확인하고 새 버전이면 팝업에서 바로 설치, 홈 배너 탭으로도 즉시 업데이트",
-  "publishedAt": "2026-11-03T11:28:36+09:00"
+  "sha256": "dced9ae200a676f8e668c2f18b060fcfaa2ee87df33b029805f3ffd5951645de",
+  "notes": "0.7.0: 포즈 분석 17점→23점(발끝·뒤꿈치 추가, 계약 0.2). 예전 기록도 그대로 읽힘. 발 기반 지표는 다음 판부터",
+  "publishedAt": "2026-11-03T12:23:29+09:00"
 }
