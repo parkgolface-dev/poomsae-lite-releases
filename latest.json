@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.6.2",
+  "versionCode": 15,
+  "versionName": "0.6.3",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "b4ba2489f39b13ba2558aee9cb5cdf4b7258179f82a854837a9656572193d115",
-  "notes": "0.6.2: 앱 이름을 MADANG X Poomsae로 변경(통합 브랜드 반영), 패키지·기록·설정은 그대로 유지",
-  "publishedAt": "2026-11-03T11:18:16+09:00"
+  "sha256": "f11989a3e9c5bf92f231adae0ff8ce6265eaf7df9362814f4162353414a4c5e6",
+  "notes": "0.6.3: 업데이트 안내 강화 — 앱을 열 때마다 확인하고 새 버전이면 팝업에서 바로 설치, 홈 배너 탭으로도 즉시 업데이트",
+  "publishedAt": "2026-11-03T11:28:36+09:00"
 }
