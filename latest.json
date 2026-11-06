@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.9.0",
+  "versionCode": 19,
+  "versionName": "0.9.1",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "9e1eab1326c9198b27221a62870d751adc16937c5d8a6f87969546d80f55356b",
-  "notes": "0.9.0: 마당 사범 — 공공 모션캡처 기준 아바타를 카메라 위에 반투명으로 겹쳐 따라 하는 연습 모드(속도·동작별 정지·일치 색·음성 교정) + 앱 안 사용 설명서(홈 ⓘ·설정)",
-  "publishedAt": "2026-11-06T15:25:59+09:00"
+  "sha256": "5993dd95e59025e46b5ebba541cd2b2b8022fe9cd7b8fce4a52730f1c6014fb8",
+  "notes": "0.9.1: 보안 경고 대응 — 앱이 스스로 APK를 설치하지 않고 설치 페이지(브라우저)로 안내, 설명서에 「유해한 앱」 경고 우회 절차. 기록·설정 유지",
+  "publishedAt": "2026-11-06T15:36:46+09:00"
 }
