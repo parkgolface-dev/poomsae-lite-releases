@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.10.0",
+  "versionCode": 22,
+  "versionName": "0.10.1",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "2fb9e9082d38792c247099d220139acac9514ac8bcf0caddffea38e0aedcc33a",
-  "notes": "0.10.0: 새 디자인 「도장의 아침」 — 밝은 테마, 홈이 품새 라이브러리(유급자·유단자·새품새, 띠 색 등급), 품새마당 새 화면과 전체 화면 연습 요약, 숫자 글꼴. 기록·설정 유지",
-  "publishedAt": "2026-11-06T16:13:09+09:00"
+  "sha256": "92a9ada5eb051717900a035fad17145df8f66b11b428cf352316c699152eb002",
+  "notes": "0.10.1: 붓글씨 브랜드 마크 「MADANG X | 마당」. 기록·설정 유지",
+  "publishedAt": "2026-11-06T16:18:58+09:00"
 }
