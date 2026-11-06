@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.8.0",
+  "versionCode": 18,
+  "versionName": "0.9.0",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "efa65612cbde17669d67effbc442ca7e722208fa99372497d71a7376d36dde90",
+  "sha256": "9e1eab1326c9198b27221a62870d751adc16937c5d8a6f87969546d80f55356b",
   "notes": "0.9.0: 마당 사범 — 공공 모션캡처 기준 아바타를 카메라 위에 반투명으로 겹쳐 따라 하는 연습 모드(속도·동작별 정지·일치 색·음성 교정) + 앱 안 사용 설명서(홈 ⓘ·설정)",
-  "publishedAt": "2026-11-06T15:23:29+09:00"
+  "publishedAt": "2026-11-06T15:25:59+09:00"
 }
