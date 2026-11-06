@@ -2,7 +2,7 @@
   "versionCode": 17,
   "versionName": "0.8.0",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "c3978ef92497ce11fcc2f830bb35f7aba07bb374f0b71a7763b69b5b108b82d4",
-  "notes": "0.8.0: 포즈 계약 0.3 — 26점(머리 꼭대기·목·골반 중심 유도점 추가), 코어 공통 계약으로 통일. 예전 기록 그대로 읽힘",
-  "publishedAt": "2026-11-03T19:09:19+09:00"
+  "sha256": "efa65612cbde17669d67effbc442ca7e722208fa99372497d71a7376d36dde90",
+  "notes": "0.9.0: 마당 사범 — 공공 모션캡처 기준 아바타를 카메라 위에 반투명으로 겹쳐 따라 하는 연습 모드(속도·동작별 정지·일치 색·음성 교정) + 앱 안 사용 설명서(홈 ⓘ·설정)",
+  "publishedAt": "2026-11-06T15:23:29+09:00"
 }
