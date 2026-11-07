@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.10.2",
+  "versionCode": 24,
+  "versionName": "0.11.0",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "7a4aa4a9de1deb2396a954d3f57b363bc967f7e435e50f1c954e8ab306c404f1",
-  "notes": "0.10.2: 홈 품새 목록을 유급자·유단자·새품새 카드로 접음(탭하면 펼침), 붓글씨 「마당」 연성체·낙관. 기록·설정 유지",
-  "publishedAt": "2026-11-06T16:27:06+09:00"
+  "sha256": "0d534827c54b084a183b927798bb9642425c15b98afcb5b4a744a85466bdf8f0",
+  "notes": "0.11.0: Flutter 전환판 — 같은 화면·같은 채점, 앞으로 화면 수정은 재설치 없이 코드푸시로. 앱 내 업데이트 유지, 기록·설정 그대로",
+  "publishedAt": "2026-11-07T09:39:06+09:00"
 }
