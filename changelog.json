@@ -1,6 +1,16 @@
 [
  {
   "versionCode": 24,
+  "versionName": "0.11.0 패치 1",
+  "patch": 1,
+  "date": "2026-11-07",
+  "notes": [
+   "기록 삭제 — 기록 화면 휴지통·왼쪽으로 밀기·길게 누르기",
+   "결과 화면 휴지통"
+  ]
+ },
+ {
+  "versionCode": 24,
   "versionName": "0.11.0",
   "date": "2026-11-07",
   "notes": [
