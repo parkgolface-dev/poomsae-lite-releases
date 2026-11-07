@@ -1,6 +1,15 @@
 [
  {
   "versionCode": 24,
+  "versionName": "0.11.0 패치 2",
+  "patch": 2,
+  "date": "2026-11-07",
+  "notes": [
+   "결과·기록·설정·영상·동작 화면 아래가 제스처 바에 가려지던 문제 수정"
+  ]
+ },
+ {
+  "versionCode": 24,
   "versionName": "0.11.0 패치 1",
   "patch": 1,
   "date": "2026-11-07",
