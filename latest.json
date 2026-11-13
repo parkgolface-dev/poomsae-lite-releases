@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.11.0",
+  "versionCode": 25,
+  "versionName": "0.11.1",
   "apkUrl": "https://parkgolface-dev.github.io/poomsae-lite-releases/poomsae-lite-latest.apk",
-  "sha256": "0d534827c54b084a183b927798bb9642425c15b98afcb5b4a744a85466bdf8f0",
-  "notes": "0.11.0: Flutter 전환판 — 같은 화면·같은 채점, 앞으로 화면 수정은 재설치 없이 코드푸시로. 앱 내 업데이트 유지, 기록·설정 그대로",
-  "publishedAt": "2026-11-07T09:39:06+09:00"
+  "sha256": "5d456c0d75bd1541bf64c5ea1fb00b1a247a5d3c31dfbbba5cb6b10949a1eb22",
+  "notes": "0.11.1: 앱이 꺼져 있어도 새 버전·패치 소식이 나오면 휴대폰 알림(15분 주기 확인), 패치 알림이 쌓이지 않게 하나로, 알림 화면에 소식 번호 정리. 기록·설정 그대로",
+  "publishedAt": "2026-11-13T16:08:54+09:00"
 }
